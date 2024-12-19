@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# Token files
+osm_tokens.json
+saved_usernames.txt
+
+# VS Code files
+.vscode/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Byte-compiled files
+*.pyo
+*.pyd
+
+# Pip virtual environment
+osmhi/

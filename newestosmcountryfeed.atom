@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/rss/1.0/modules/threading/" xml:lang="en">	
+	<author><name>Pascal Neis (Copyright - neis-one.org)</name></author>
+	<title type="text">Latest OpenStreetMap Contributors (last 7 Days) - Feed for Croatia</title> 
+<link href="https://resultmaps.neis-one.org/newestosmcountryfeed.php?c=Croatia" rel="self" type="application/atom+xml" />
+	<subtitle type="text">powered by www.neis-one.org</subtitle>
+    <id>urn:uuid:61e183f3-0886-427e-bd1e-0bd73044d905</id>
+	<updated>2024-12-18T18:03:20+01:00</updated>
+		<entry>
+			<id>https://osm.org/user/osm%20hr%20test</id>
+			<title>New Contributor: osm hr test </title>
+			<link href="https://osm.org/user/osm%20hr%20test" />
+			<updated>2024-12-13T13:08:32+01:00</updated>
+			<content type="html"><![CDATA[Contributor: <a target="_blank" href="https://osm.org/user/osm%20hr%20test">osm hr test</a> <br>Mapper since: 2024-12-13 13:08:32 <br>Registration: 2023-04-21 23:45:59 <br>UID: 19029220 <br>First active near: Potočani (4.52 km) (Croatia) <br>First Changeset: <a target="_blank" href="https://osm.org/changeset/160245656">160245656</a> <br>Editor used: iD 2.30.4 <br>How did <a target="_blank" href="https://hdyc.neis-one.org/?Chino%20Gustav">contribute</a> to OpenStreetMap?]]></content>
+		</entry>
+		<entry>
+			<id>https://osm.org/user/simulator1</id>
+			<title>New Contributor: simulator1</title>
+			<link href="https://osm.org/user/simulator1" />
+			<updated>2024-12-11T18:49:00+01:00</updated>
+			<content type="html"><![CDATA[Contributor: <a target="_blank" href="https://osm.org/user/simulator1">simulator1</a> <br>Mapper since: 2024-12-11 18:49:00 <br>Registration: 2019-02-27 21:24:51 <br>UID: 9483423 <br>First active near: Solin (0.34 km) (Croatia) <br>First Changeset: <a target="_blank" href="https://osm.org/changeset/160180634">160180634</a> <br>Editor used: StreetComplete 59.3 <br>How did <a target="_blank" href="https://hdyc.neis-one.org/?zlocimir">contribute</a> to OpenStreetMap?]]></content>
+		</entry>
+</feed> 
+
+
